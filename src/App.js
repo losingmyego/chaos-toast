@@ -18,7 +18,7 @@ export default function App() {
       },
       // styling
     style: {
-      border: '1px solid #79D097',
+      border: '1px solid #FFFDF8',
       padding: '8px 12px',
       color: '#FFFDF8',
       backgroundColor: '#1E1E1E'
