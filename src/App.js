@@ -130,7 +130,7 @@ export default function App() {
 
         // Change colors of success/error/loading icon
         iconTheme: {
-          primary: '#8EEAAE',
+          primary: '#79D097',
           secondary: '#fff',
         },
         // styling
